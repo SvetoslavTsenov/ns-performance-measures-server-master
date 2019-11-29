@@ -1,5 +1,7 @@
 # ns-performance-measures-server
 
+## experiment with graphql, mongo
+
 ## install mongodb
 
 ### mac os
